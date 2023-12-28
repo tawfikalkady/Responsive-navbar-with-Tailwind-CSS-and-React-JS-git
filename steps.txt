@@ -1,0 +1,22 @@
+https://tailwindcss.com/docs/guides/vite
+npm create vite@latest my-project -- --template react
+npm install
+npm run dev
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+
+  unknownAtRules > ignore
+
+  npm run dev
+
+  dzannotti.vscode-babel-coloring
+  ES7+ React/Redux/React-Native snippets
+  dsznajder
+
+https://react-icons.github.io/react-icons/
+  npm install react-icons --save
